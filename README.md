@@ -1,3 +1,3 @@
 # python_data_mining
 
-关于python的数据挖掘算法
+python 数据分析与挖掘算法 配套代码
