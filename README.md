@@ -1,2 +1,3 @@
 # python_data_mining
-add new file
+
+关于python的数据挖掘算法
